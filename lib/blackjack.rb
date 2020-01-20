@@ -1,3 +1,4 @@
+require "pry"
 def welcome
   # code #welcome here
 end
