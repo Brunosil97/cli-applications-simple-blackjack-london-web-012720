@@ -4,7 +4,9 @@ def welcome
 end
 
 def deal_card
-  
+  20.times do 
+    card = deal_card
+    
 end
 
 def display_card_total
